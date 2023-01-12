@@ -1,0 +1,86 @@
+.comment-popup {
+  display: none;
+  background-color: hsl(216, 50%, 16%);
+  padding: 4px 15px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 98%;
+  height: 100vh;
+  z-index: 2;
+}
+
+.popup-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 2px solid hsl(178, 100%, 50%);
+  position: relative;
+  font-size: 18px;
+  height: 95%;
+}
+
+.popup-wrapper .comment-cross {
+  position: absolute;
+  font-size: 40px;
+  right: 10px;
+  cursor: pointer;
+}
+
+.popup-wrapper .img-container img {
+  display: flex;
+  height: 250px;
+  width: 200px;
+}
+
+.movie-details {
+  display: flex;
+  justify-content: space-between;
+}
+
+.right-detail {
+  padding-left: 30px;
+}
+
+.comment-holder {
+  display: flex;
+  flex-direction: column;
+  max-height: 200px;
+  overflow-y: scroll;
+  border: 1px solid hsl(178, 100%, 50%);
+  margin: 5px;
+}
+
+.comment-detail {
+  list-style: none;
+  padding-top: 3px;
+}
+
+#comment-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.comment-inputs {
+  margin-bottom: 15px;
+}
+
+.comment-text {
+  height: 70px;
+}
+
+#comment-form .comment-btn {
+  align-self: flex-start;
+  padding: 5px;
+  border: 1px solid hsl(178, 100%, 50%);
+  margin-bottom: 5px;
+  cursor: pointer;
+}
+
+#comment-form .comment-btn:hover {
+  border: 2px solid #4caf50;
+  margin-bottom: 5px;
+  -moz-box-shadow: inset 0 0 5px hsl(178, 100%, 50%);
+  -webkit-box-shadow: inset 0 0 5px hsl(178, 100%, 50%);
+  box-shadow: inset 0 0 5px hsl(178, 100%, 50%);
+}

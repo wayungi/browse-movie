@@ -1,0 +1,48 @@
+{
+    "name": "Browse-movie-app",
+    "version": "1.0.0",
+    "description": "This is a group capstone project built using HTML, CSS, and Javascript.",
+    "private": true,
+    "scripts": {
+        "test": "jest",
+        "build:dev": "npx webpack --mode development --watch ",
+        "start": "npx webpack serve --open --mode development",
+        "build": "webpack",
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d dist"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AlphaNtihinduka/Browse-movie-app.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/AlphaNtihinduka/Browse-movie-app/issues"
+    },
+    "homepage": "https://AlphaNtihinduka.github.io/Browse-movie-app",
+    "devDependencies": {
+        "@babel/plugin-transform-modules-commonjs": "^7.17.9",
+        "babel-eslint": "^10.1.0",
+        "css-loader": "^6.7.1",
+        "eslint": "^7.32.0",
+        "eslint-config-airbnb-base": "^14.2.1",
+        "eslint-plugin-import": "^2.26.0",
+        "hint": "^6.2.0",
+        "html-loader": "^3.1.0",
+        "html-webpack-plugin": "^5.5.0",
+        "jest": "^28.1.0",
+        "style-loader": "^3.3.1",
+        "stylelint": "^13.13.1",
+        "stylelint-config-standard": "^21.0.0",
+        "stylelint-csstree-validator": "^1.9.0",
+        "stylelint-scss": "^3.21.0",
+        "webpack": "^5.72.1",
+        "webpack-cli": "^4.9.2",
+        "webpack-dev-server": "^4.8.1"
+    },
+    "dependencies": {
+        "gh-pages": "^4.0.0"
+    }
+}

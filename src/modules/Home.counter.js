@@ -1,0 +1,1 @@
+export default (movieCounter) => movieCounter.length;
