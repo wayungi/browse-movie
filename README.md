@@ -10,7 +10,7 @@
 - Webpack and Jest
 ​
 ## Live Demo
-- Live Demo: [link](https://alphantihinduka.github.io/Browse-movie-app/);
+- Live Demo: [link](https://wayungi.github.io/Browse-movie-app/);
 
 ## Getting Started
 To get a local copy up and running follow these simple steps:
