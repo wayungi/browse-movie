@@ -31,20 +31,12 @@ git clone git@github.com:AlphaNtihinduka/Browse-movie-app.git
 - npm install
 
 ## Authors
-👤 **Ntihinduka Alpha**
-- GitHub: [Githubhandle](https://github.com/AlphaNtihinduka)
-- Twitter: [Twitterhandle](https://twitter.com/AlphaNtihinduka)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ntihinduka-alpha-81bb7b22a/)
+👤 **FRANCIS WAYUNGI**
+- GitHub: [Githubhandle](https://github.com/wayungi)
+- Twitter: [Twitterhandle](https://twitter.com/FrancisWayungi)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/francis-wayungi)
 
-👤 **Emmanuel Orji-Ihuoma**
-- GitHub: [Githubhandle](https://github.com/emmiiorji)
-- Twitter: [Twitterhandle](https://twitter.com/emmiiorji)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/emmanuel-orji-2a8317121)
 
-👤 **Gedewon Hailegebrale**
-- GitHub: [Githubhandle](https://github.com/Gedewon)
-- Twitter: [Twitterhandle](https://twitter.com/gedi_haile)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/gedewon/)
 
 ## 🤝Contributing
 Contributions, issues and feature requests are welcomed.
